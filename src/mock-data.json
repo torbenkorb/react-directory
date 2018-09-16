@@ -1,0 +1,634 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "faith",
+        "last": "mendoza"
+      },
+      "location": {
+        "street": "7300 grange road",
+        "city": "st davids",
+        "state": "gloucestershire",
+        "postcode": "ZG86 5TT",
+        "coordinates": {
+          "latitude": "-89.7680",
+          "longitude": "132.0486"
+        },
+        "timezone": {
+          "offset": "+4:30",
+          "description": "Kabul"
+        }
+      },
+      "email": "faith.mendoza@example.com",
+      "login": {
+        "uuid": "593ab3d6-4d56-4377-b26d-f37485f8492f",
+        "username": "smallwolf299",
+        "password": "groups",
+        "salt": "2uyoCDEl",
+        "md5": "08faebd1a4f988a83b0d2f3c45bd81e5",
+        "sha1": "b34f5c5f3dcd71d47ec88373687849f1b5bfc0e5",
+        "sha256": "65441972fba843e19e389570830f04ed8ee43d60ef1e5c94d079837bb8ca0d0f"
+      },
+      "dob": {
+        "date": "1969-08-09T11:47:41Z",
+        "age": 49
+      },
+      "registered": {
+        "date": "2006-07-16T01:45:26Z",
+        "age": 12
+      },
+      "phone": "015394 45729",
+      "cell": "0772-192-338",
+      "id": {
+        "name": "NINO",
+        "value": "JJ 65 37 76 J"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "katherine",
+        "last": "powell"
+      },
+      "location": {
+        "street": "5909 chester road",
+        "city": "wolverhampton",
+        "state": "worcestershire",
+        "postcode": "U3N 8HL",
+        "coordinates": {
+          "latitude": "12.7471",
+          "longitude": "39.7379"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "katherine.powell@example.com",
+      "login": {
+        "uuid": "54db10bb-1778-43b8-b127-de0c39ba8844",
+        "username": "smallduck972",
+        "password": "earth",
+        "salt": "kXVjJqCa",
+        "md5": "1487d0d42d5a0f326135d9d3695e6191",
+        "sha1": "a9bcf8dc7b584fccbe00008e1c98f0d79dc7199b",
+        "sha256": "b190dd87dfc31f99c5c13f9f548478b674d48819210d908318ec8b6d489aef44"
+      },
+      "dob": {
+        "date": "1948-07-22T16:18:42Z",
+        "age": 70
+      },
+      "registered": {
+        "date": "2009-09-07T09:20:24Z",
+        "age": 9
+      },
+      "phone": "016974 33027",
+      "cell": "0747-693-819",
+      "id": {
+        "name": "NINO",
+        "value": "XC 28 39 39 R"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/13.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "claude",
+        "last": "lowe"
+      },
+      "location": {
+        "street": "6934 mill road",
+        "city": "sunderland",
+        "state": "west sussex",
+        "postcode": "OD9Q 2RG",
+        "coordinates": {
+          "latitude": "29.1277",
+          "longitude": "0.5787"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "claude.lowe@example.com",
+      "login": {
+        "uuid": "2c2a78b3-e380-45b3-85da-a636a6241d7e",
+        "username": "goldenlion220",
+        "password": "umpire",
+        "salt": "hdM1tGGj",
+        "md5": "b47e4b49c118fc6e9d033db9583559e1",
+        "sha1": "ba2796a2b6d9fb9dc86e9b210a2279dd83d021e9",
+        "sha256": "df22b056d39ea6dd8f471b105c880f1470d28192be44f9e0884f90138aed4375"
+      },
+      "dob": {
+        "date": "1968-01-23T14:16:30Z",
+        "age": 50
+      },
+      "registered": {
+        "date": "2010-10-07T20:06:52Z",
+        "age": 7
+      },
+      "phone": "016977 9486",
+      "cell": "0775-824-112",
+      "id": {
+        "name": "NINO",
+        "value": "YT 75 27 41 E"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "hanna",
+        "last": "ward"
+      },
+      "location": {
+        "street": "4661 church lane",
+        "city": "cardiff",
+        "state": "county fermanagh",
+        "postcode": "Q5A 4YW",
+        "coordinates": {
+          "latitude": "-87.1135",
+          "longitude": "137.2244"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "hanna.ward@example.com",
+      "login": {
+        "uuid": "a89d4024-e264-4c54-9cc5-680c4c66e20d",
+        "username": "sadgorilla327",
+        "password": "weed420",
+        "salt": "5x9IVsbA",
+        "md5": "f1f5ee96b98984b010d4aa90ec927dff",
+        "sha1": "ef23a12fd418df9d4b0888946551e0d4c70bb7f3",
+        "sha256": "2e7d987fb75bbce6c6770742227f50a09ed66ea7de71182fd1d8b9effd0f5dbe"
+      },
+      "dob": {
+        "date": "1946-04-14T11:49:37Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2013-02-22T09:01:49Z",
+        "age": 5
+      },
+      "phone": "0151 637 3580",
+      "cell": "0760-770-983",
+      "id": {
+        "name": "NINO",
+        "value": "KB 01 99 43 L"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/41.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "allie",
+        "last": "freeman"
+      },
+      "location": {
+        "street": "4240 york road",
+        "city": "southampton",
+        "state": "central",
+        "postcode": "O8 8XG",
+        "coordinates": {
+          "latitude": "-89.4551",
+          "longitude": "148.6494"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "allie.freeman@example.com",
+      "login": {
+        "uuid": "55c32e45-4e7f-437c-bdbe-1caecc1df4da",
+        "username": "brownwolf890",
+        "password": "cannon",
+        "salt": "j318opV4",
+        "md5": "34e0dbaa6b74d852137ceaa9e0566197",
+        "sha1": "fc47adeb18c331d9361b763ff9243268ef122564",
+        "sha256": "6bafd8eff3947ffcfd00dac89a2dc4e1fa977062990d646cd0fc2e35ef6387b0"
+      },
+      "dob": {
+        "date": "1945-09-16T09:17:39Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2014-01-15T01:23:37Z",
+        "age": 4
+      },
+      "phone": "0111450 226 0317",
+      "cell": "0759-478-029",
+      "id": {
+        "name": "NINO",
+        "value": "BJ 76 46 37 K"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "alan",
+        "last": "lambert"
+      },
+      "location": {
+        "street": "5442 king street",
+        "city": "gloucester",
+        "state": "warwickshire",
+        "postcode": "N6 2EP",
+        "coordinates": {
+          "latitude": "14.9757",
+          "longitude": "85.4631"
+        },
+        "timezone": {
+          "offset": "+11:00",
+          "description": "Magadan, Solomon Islands, New Caledonia"
+        }
+      },
+      "email": "alan.lambert@example.com",
+      "login": {
+        "uuid": "be948a0a-3f90-4508-8599-5cca52b8b109",
+        "username": "goldenbird391",
+        "password": "caprice",
+        "salt": "CVgSgISz",
+        "md5": "e7388ad0c3d062781ae2d11c7e4aed8d",
+        "sha1": "c51c8c1195cff6fc6742baf27b32caadbe3b8b44",
+        "sha256": "6d9a1e3280e35b3790b98fddc77d61f7a4c95607f9fd7fa2248cdd644a84e0b7"
+      },
+      "dob": {
+        "date": "1960-12-31T03:26:15Z",
+        "age": 57
+      },
+      "registered": {
+        "date": "2018-02-01T22:24:23Z",
+        "age": 0
+      },
+      "phone": "016977 94999",
+      "cell": "0730-027-750",
+      "id": {
+        "name": "NINO",
+        "value": "YN 63 47 14 V"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "norman",
+        "last": "byrd"
+      },
+      "location": {
+        "street": "3548 school lane",
+        "city": "st albans",
+        "state": "lothian",
+        "postcode": "Z7W 2JT",
+        "coordinates": {
+          "latitude": "-70.6843",
+          "longitude": "166.7586"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "norman.byrd@example.com",
+      "login": {
+        "uuid": "f22cc294-705d-43f1-b275-87a5e356fddd",
+        "username": "crazywolf639",
+        "password": "pooh",
+        "salt": "Z63UtZNq",
+        "md5": "8a19264e266d98b8044709d3d3ec28b6",
+        "sha1": "12007c564199830a8c0fecdc87328ebe43fb8f97",
+        "sha256": "cfcd5793305a9b12267c9bda9d073a628d91fe664b10f16c6a8d2a1d0d0bd047"
+      },
+      "dob": {
+        "date": "1989-09-03T03:36:56Z",
+        "age": 29
+      },
+      "registered": {
+        "date": "2012-06-25T22:02:31Z",
+        "age": 6
+      },
+      "phone": "015395 69321",
+      "cell": "0788-096-578",
+      "id": {
+        "name": "NINO",
+        "value": "BN 58 83 33 W"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/98.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "carlos",
+        "last": "frazier"
+      },
+      "location": {
+        "street": "6774 oaks cross",
+        "city": "peterborough",
+        "state": "hertfordshire",
+        "postcode": "QK3 1SP",
+        "coordinates": {
+          "latitude": "56.8766",
+          "longitude": "-179.5461"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "carlos.frazier@example.com",
+      "login": {
+        "uuid": "d42ae61b-cded-4acf-92b9-1a7f04aa9c9d",
+        "username": "goldenwolf258",
+        "password": "polish",
+        "salt": "smwTWF0F",
+        "md5": "2c83b649529fb85ca6b9e5f2ab9ea307",
+        "sha1": "939eca4b700085fac31804bd6c84c2d963bbbfb6",
+        "sha256": "9895a25ab679cdb29fb7a7e6541e98729ba7ed22fa590167b73cabdd66e61557"
+      },
+      "dob": {
+        "date": "1946-05-12T20:15:31Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2017-02-04T21:01:52Z",
+        "age": 1
+      },
+      "phone": "017684 46779",
+      "cell": "0704-486-152",
+      "id": {
+        "name": "NINO",
+        "value": "AH 14 79 96 G"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "francis",
+        "last": "soto"
+      },
+      "location": {
+        "street": "8041 main road",
+        "city": "leicester",
+        "state": "gwynedd county",
+        "postcode": "KI10 2UB",
+        "coordinates": {
+          "latitude": "-82.3316",
+          "longitude": "-107.3810"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "francis.soto@example.com",
+      "login": {
+        "uuid": "46e45133-9614-4fb9-9755-03b7729e66a0",
+        "username": "sadlion155",
+        "password": "space",
+        "salt": "l5mq73x3",
+        "md5": "754e1e275dd7676850e1cf3ddf28eba9",
+        "sha1": "21055db16dbf7cd54acc4d13503baa9596322ee5",
+        "sha256": "7cb53263d2f1c26b63cccfc6977a8380baa845858d263bc92ced940f76678fdd"
+      },
+      "dob": {
+        "date": "1954-05-05T17:12:07Z",
+        "age": 64
+      },
+      "registered": {
+        "date": "2010-12-10T15:01:07Z",
+        "age": 7
+      },
+      "phone": "01710 672633",
+      "cell": "0752-149-631",
+      "id": {
+        "name": "NINO",
+        "value": "JS 59 44 15 C"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/46.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "caroline",
+        "last": "daniels"
+      },
+      "location": {
+        "street": "3894 main street",
+        "city": "plymouth",
+        "state": "tyne and wear",
+        "postcode": "W93 0EF",
+        "coordinates": {
+          "latitude": "-62.4751",
+          "longitude": "89.4438"
+        },
+        "timezone": {
+          "offset": "-8:00",
+          "description": "Pacific Time (US & Canada)"
+        }
+      },
+      "email": "caroline.daniels@example.com",
+      "login": {
+        "uuid": "5c4ab2c5-604c-417b-b5cd-0d5903cb97ba",
+        "username": "whitebird832",
+        "password": "happy123",
+        "salt": "yUcfB8tQ",
+        "md5": "874cdb1124826cb38be171105012171f",
+        "sha1": "9652d8c1cd80dfd3b0b8e7338dd9733746fa9611",
+        "sha256": "f032a7bf16a496711d2af163cfc7da39f4b4338799796ba3ba64b53cf1b49ec3"
+      },
+      "dob": {
+        "date": "1988-01-17T06:42:16Z",
+        "age": 30
+      },
+      "registered": {
+        "date": "2008-02-26T21:43:23Z",
+        "age": 10
+      },
+      "phone": "015242 26690",
+      "cell": "0766-164-287",
+      "id": {
+        "name": "NINO",
+        "value": "MK 27 47 80 V"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/7.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "charles",
+        "last": "ellis"
+      },
+      "location": {
+        "street": "7617 manor road",
+        "city": "dundee",
+        "state": "south glamorgan",
+        "postcode": "CD9Y 6QF",
+        "coordinates": {
+          "latitude": "88.0145",
+          "longitude": "-42.3964"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "charles.ellis@example.com",
+      "login": {
+        "uuid": "d1e65e95-d1b6-4bb7-8614-e13753ae2733",
+        "username": "ticklishbutterfly163",
+        "password": "lakers1",
+        "salt": "VSaeJTLo",
+        "md5": "71669a1d0305885b603d5da7097add2a",
+        "sha1": "38ea02629cb26b17b96a936abd9fa82a8f7b6575",
+        "sha256": "0eede41d7cc8b98713c162cc21fa18d2e1876a9416e7392fe0c48aeb21623716"
+      },
+      "dob": {
+        "date": "1961-01-27T09:08:15Z",
+        "age": 57
+      },
+      "registered": {
+        "date": "2014-12-12T16:44:51Z",
+        "age": 3
+      },
+      "phone": "017683 78154",
+      "cell": "0795-542-542",
+      "id": {
+        "name": "NINO",
+        "value": "GH 45 97 42 C"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "guy",
+        "last": "ford"
+      },
+      "location": {
+        "street": "595 st. john’s road",
+        "city": "stoke-on-trent",
+        "state": "county armagh",
+        "postcode": "ZT86 8SL",
+        "coordinates": {
+          "latitude": "-31.0541",
+          "longitude": "-134.3015"
+        },
+        "timezone": {
+          "offset": "-8:00",
+          "description": "Pacific Time (US & Canada)"
+        }
+      },
+      "email": "guy.ford@example.com",
+      "login": {
+        "uuid": "4c68e56f-e23d-45f5-ba02-280b7df210ad",
+        "username": "ticklishrabbit680",
+        "password": "patrice",
+        "salt": "ZiFhWIGN",
+        "md5": "895650b3269d74a63c20ff3e88d7908e",
+        "sha1": "c5323ee39f3427012f6a01c2d53250e9ad0adee6",
+        "sha256": "9a007dc0d894f33512f6e48bdbc015eda94015184a26c58ddadb6b82ffa75e33"
+      },
+      "dob": {
+        "date": "1961-03-21T18:10:38Z",
+        "age": 57
+      },
+      "registered": {
+        "date": "2016-12-13T18:11:17Z",
+        "age": 1
+      },
+      "phone": "015396 19112",
+      "cell": "0764-243-689",
+      "id": {
+        "name": "NINO",
+        "value": "OE 96 26 14 L"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "f4136dc182d53c45",
+    "results": 12,
+    "page": 1,
+    "version": "1.2"
+  }
+}
