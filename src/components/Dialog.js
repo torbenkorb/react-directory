@@ -4,10 +4,12 @@ class Dialog extends Component {
 
     componentDidMount() {
         document.addEventListener('mousedown', this.handleClickOutside);
+        document.querySelector('body').style.overflow = 'hidden';
       }
 
       componentWillUnmount() {
         document.removeEventListener('mousedown', this.handleClickOutside);
+        document.querySelector('body').style.overflow = '';
       }
 
       /**

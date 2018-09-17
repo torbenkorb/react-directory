@@ -18,7 +18,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://randomuser.me/api/?nat=de&results=15')
+    fetch('https://randomuser.me/api/?nat=de&results=16')
     .then(res => res.json())
     .then(data => {
 
@@ -81,7 +81,7 @@ class App extends Component {
     return (
       <div className="site">
         <header className="site__header">
-          <h1 className="site__title">Awesome Start-Up Employee Directory</h1>
+          <h1 className="site__title">Awesome Agency Employee Directory</h1>
           <input onChange={this.handleInput} type="search" placeholder="Search..." />
         </header>
 
